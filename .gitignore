@@ -1,0 +1,15 @@
+xcuserdata/
+build/
+.svn/
+build.data
+*.mode1v3
+*.mode1
+*.mode2v3
+*.pbxuser
+*.swp
+.DS_Store
+*.perspective
+*.perspectivev3
+ignore/
+DerivedData/
+
